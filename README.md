@@ -3,6 +3,24 @@
 <br>
 <img src='./demo1.jpg' alt='bundly-project' >
 
+### Technology used 
+
+<div style="display: flex" justify-content="space-between" width="80%">
+
+
+<img style="display: inline" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img style="display: inline" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+
+
+<img style="display: inline" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+
+</div>
+
+
+
 ### Demo
 
 Online Deployment of this project is available at
@@ -20,6 +38,22 @@ In the project directory, you can run:
 ### `npm install` in the root directory & in the frontend
 
 to install the dependancies 
+
+## Environment Variables 
+
+in order for this project to work you need to add a .env file the have the following variables :
+
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = ....
+JWT_SECRET = ....
+GOOGLE_CLIENT_ID = ....
+FACEBOOK_CLIENT_ID = ....
+SENDGRID_API_KEY = ....
+SENDER_EMAIL = ....
+SUBSCRIPTION_CONFIRMATION_TEMPLATE = ....
+TRACK_ID=....
+GOOGLE_MAP_KEY=....
 
 ### `npm run dev`
 
