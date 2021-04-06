@@ -8,22 +8,14 @@
 <div style="display: flex" justify-content="space-between" width="100%">
 
 
-<div>
-React
+
 <img style="display: inline" alt="React" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-</div>
-<div>
-Node.js
 <img style="display: inline" alt="Node.js" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</div>
 
-<div>
-MongoDB
 <img style="display: inline" alt="MongoDB" width="10%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</div>
 
-
+React - Node.js -MongoDB
 </div>
 
 
